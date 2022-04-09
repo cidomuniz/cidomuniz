@@ -1,6 +1,8 @@
 <div align="center"><br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cidomuniz&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidomuniz&show_icons=true&theme=dracula&layout=compact" />
+  <a href="https://github.com/cidomuniz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cidomuniz&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidomuniz&show_icons=true&theme=dracula&layout=compact" />
+  </a>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
