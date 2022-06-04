@@ -1,7 +1,6 @@
 ### Hello!
 
-I'm Aparecido Muniz,  I'm a Software Engineer at Itau Unibanco, and I have almost five years of experience in tech.
-I'm starting to contribute to the community.
+I'm Aparecido Muniz,  I'm a Software Engineer at Itau Unibanco, and I have almost five years of experience in tech. I'm always learning something new.
 
 [![Linkedin: Aparecido](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cidomuniz/)](https://www.linkedin.com/in/cidomuniz/)
 [![Medium: cidomuniz](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://cidomuniz.medium.com)](https://cidomuniz.medium.com)
