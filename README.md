@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Aparecido Muniz,  I'm a Software Engineer.
+I'm Aparecido Muniz, a Senior Software Engineer.
 
 [![Linkedin: Aparecido](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cidomuniz/)](https://www.linkedin.com/in/cidomuniz/)
 [![Medium: cidomuniz](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://cidomuniz.medium.com)](https://cidomuniz.medium.com)
